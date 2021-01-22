@@ -1,1 +1,1 @@
-console.log('This is crazy');
+console.log('This is amazing');
